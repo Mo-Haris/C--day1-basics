@@ -1,0 +1,6 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Functionblock\bin\Debug\Functionblock.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Functionblock\bin\Debug\Functionblock.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Functionblock\bin\Debug\Functionblock.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Functionblock\obj\Debug\Functionblock.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Functionblock\obj\Debug\Functionblock.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Functionblock\obj\Debug\Functionblock.pdb

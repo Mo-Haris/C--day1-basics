@@ -1,0 +1,13 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\bin\Debug\netcoreapp3.1\problem9-primeAtNthPosition.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\bin\Debug\netcoreapp3.1\problem9-primeAtNthPosition.deps.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\bin\Debug\netcoreapp3.1\problem9-primeAtNthPosition.runtimeconfig.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\bin\Debug\netcoreapp3.1\problem9-primeAtNthPosition.runtimeconfig.dev.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\bin\Debug\netcoreapp3.1\problem9-primeAtNthPosition.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\bin\Debug\netcoreapp3.1\problem9-primeAtNthPosition.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\obj\Debug\netcoreapp3.1\problem9-primeAtNthPosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\obj\Debug\netcoreapp3.1\problem9-primeAtNthPosition.AssemblyInfoInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\obj\Debug\netcoreapp3.1\problem9-primeAtNthPosition.AssemblyInfo.cs
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\obj\Debug\netcoreapp3.1\problem9-primeAtNthPosition.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\obj\Debug\netcoreapp3.1\problem9-primeAtNthPosition.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\obj\Debug\netcoreapp3.1\problem9-primeAtNthPosition.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem9-primeAtNthPosition\obj\Debug\netcoreapp3.1\problem9-primeAtNthPosition.genruntimeconfig.cache

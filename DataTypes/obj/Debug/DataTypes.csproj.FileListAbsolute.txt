@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\DataTypes\bin\Debug\DataTypes.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\DataTypes\obj\Debug\DataTypes.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\DataTypes\obj\Debug\DataTypes.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\DataTypes\obj\Debug\DataTypes.pdb

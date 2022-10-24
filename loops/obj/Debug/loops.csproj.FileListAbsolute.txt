@@ -1,0 +1,6 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\loops\bin\Debug\loops.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\loops\bin\Debug\loops.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\loops\bin\Debug\loops.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\loops\obj\Debug\loops.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\loops\obj\Debug\loops.pdb

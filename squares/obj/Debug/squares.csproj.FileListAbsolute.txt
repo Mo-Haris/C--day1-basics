@@ -1,0 +1,6 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\squares\bin\Debug\squares.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\squares\bin\Debug\squares.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\squares\bin\Debug\squares.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\squares\obj\Debug\squares.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\squares\obj\Debug\squares.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\squares\obj\Debug\squares.pdb

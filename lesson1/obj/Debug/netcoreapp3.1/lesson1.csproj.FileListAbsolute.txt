@@ -1,0 +1,14 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\bin\Debug\netcoreapp3.1\lesson1.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\bin\Debug\netcoreapp3.1\lesson1.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\bin\Debug\netcoreapp3.1\lesson1.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\lesson1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache

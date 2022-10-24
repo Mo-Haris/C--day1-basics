@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem2-anagrams\bin\Debug\problem2-anagrams.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem2-anagrams\bin\Debug\problem2-anagrams.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem2-anagrams\bin\Debug\problem2-anagrams.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem2-anagrams\obj\Debug\problem2-anagrams.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem2-anagrams\obj\Debug\problem2-anagrams.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem2-anagrams\obj\Debug\problem2-anagrams.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem2-anagrams\obj\Debug\problem2-anagrams.pdb

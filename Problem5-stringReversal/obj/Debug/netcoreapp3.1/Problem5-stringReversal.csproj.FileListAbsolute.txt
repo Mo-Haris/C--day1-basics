@@ -1,0 +1,14 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\bin\Debug\netcoreapp3.1\Problem5-stringReversal.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\bin\Debug\netcoreapp3.1\Problem5-stringReversal.deps.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\bin\Debug\netcoreapp3.1\Problem5-stringReversal.runtimeconfig.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\bin\Debug\netcoreapp3.1\Problem5-stringReversal.runtimeconfig.dev.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\bin\Debug\netcoreapp3.1\Problem5-stringReversal.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\bin\Debug\netcoreapp3.1\Problem5-stringReversal.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.AssemblyInfoInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.AssemblyInfo.cs
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\Problem5-stringReversal\obj\Debug\netcoreapp3.1\Problem5-stringReversal.genruntimeconfig.cache

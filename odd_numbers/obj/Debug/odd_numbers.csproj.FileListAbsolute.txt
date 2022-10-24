@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\odd_numbers\bin\Debug\odd_numbers.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\odd_numbers\bin\Debug\odd_numbers.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\odd_numbers\bin\Debug\odd_numbers.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\odd_numbers\obj\Debug\odd_numbers.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\odd_numbers\obj\Debug\odd_numbers.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\odd_numbers\obj\Debug\odd_numbers.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\odd_numbers\obj\Debug\odd_numbers.pdb

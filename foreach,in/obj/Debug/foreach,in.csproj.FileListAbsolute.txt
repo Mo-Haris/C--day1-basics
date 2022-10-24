@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\foreach,in\bin\Debug\foreach,in.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\foreach,in\bin\Debug\foreach,in.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\foreach,in\bin\Debug\foreach,in.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\foreach,in\obj\Debug\foreach,in.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\foreach,in\obj\Debug\foreach,in.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\foreach,in\obj\Debug\foreach,in.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\foreach,in\obj\Debug\foreach,in.pdb

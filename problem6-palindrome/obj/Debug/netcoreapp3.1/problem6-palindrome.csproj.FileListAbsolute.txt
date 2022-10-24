@@ -1,0 +1,14 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\bin\Debug\netcoreapp3.1\problem6-palindrome.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\bin\Debug\netcoreapp3.1\problem6-palindrome.deps.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\bin\Debug\netcoreapp3.1\problem6-palindrome.runtimeconfig.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\bin\Debug\netcoreapp3.1\problem6-palindrome.runtimeconfig.dev.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\bin\Debug\netcoreapp3.1\problem6-palindrome.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\bin\Debug\netcoreapp3.1\problem6-palindrome.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.AssemblyInfoInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.AssemblyInfo.cs
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem6-palindrome\obj\Debug\netcoreapp3.1\problem6-palindrome.genruntimeconfig.cache

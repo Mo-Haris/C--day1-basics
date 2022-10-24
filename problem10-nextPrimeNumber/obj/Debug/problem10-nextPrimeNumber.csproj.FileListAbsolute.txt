@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem10-nextPrimeNumber\bin\Debug\problem10-nextPrimeNumber.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem10-nextPrimeNumber\bin\Debug\problem10-nextPrimeNumber.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem10-nextPrimeNumber\bin\Debug\problem10-nextPrimeNumber.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem10-nextPrimeNumber\obj\Debug\problem10-nextPrimeNumber.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem10-nextPrimeNumber\obj\Debug\problem10-nextPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem10-nextPrimeNumber\obj\Debug\problem10-nextPrimeNumber.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem10-nextPrimeNumber\obj\Debug\problem10-nextPrimeNumber.pdb

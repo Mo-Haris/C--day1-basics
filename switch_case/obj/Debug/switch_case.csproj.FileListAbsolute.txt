@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\switch_case\bin\Debug\switch_case.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\switch_case\bin\Debug\switch_case.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\switch_case\bin\Debug\switch_case.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\switch_case\obj\Debug\switch_case.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\switch_case\obj\Debug\switch_case.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\switch_case\obj\Debug\switch_case.pdb

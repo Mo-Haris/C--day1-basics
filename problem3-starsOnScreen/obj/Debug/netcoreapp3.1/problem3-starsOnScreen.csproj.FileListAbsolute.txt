@@ -1,0 +1,14 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\bin\Debug\netcoreapp3.1\problem3-starsOnScreen.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\bin\Debug\netcoreapp3.1\problem3-starsOnScreen.deps.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\bin\Debug\netcoreapp3.1\problem3-starsOnScreen.runtimeconfig.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\bin\Debug\netcoreapp3.1\problem3-starsOnScreen.runtimeconfig.dev.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\bin\Debug\netcoreapp3.1\problem3-starsOnScreen.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\bin\Debug\netcoreapp3.1\problem3-starsOnScreen.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.AssemblyInfoInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.AssemblyInfo.cs
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem3-starsOnScreen\obj\Debug\netcoreapp3.1\problem3-starsOnScreen.genruntimeconfig.cache

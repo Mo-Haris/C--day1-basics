@@ -1,0 +1,14 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\bin\Debug\netcoreapp3.1\problem7-sumOfDigits.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\bin\Debug\netcoreapp3.1\problem7-sumOfDigits.deps.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\bin\Debug\netcoreapp3.1\problem7-sumOfDigits.runtimeconfig.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\bin\Debug\netcoreapp3.1\problem7-sumOfDigits.runtimeconfig.dev.json
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\bin\Debug\netcoreapp3.1\problem7-sumOfDigits.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\bin\Debug\netcoreapp3.1\problem7-sumOfDigits.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.AssemblyInfoInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.AssemblyInfo.cs
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.dll
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\New folder\problem7-sumOfDigits\obj\Debug\netcoreapp3.1\problem7-sumOfDigits.genruntimeconfig.cache
